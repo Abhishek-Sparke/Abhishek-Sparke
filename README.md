@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 Building AI/ML & web projects<br>🤝 Open to open-source collaborations<br>🫱 Exploring advanced ML & scalable systems<br>🌱 Learning Python, Django, Docker & SQL<br>💬 Ask me about Web Dev, UI/UX & AI<br>⚡ Turning ideas into projects 🚀.<br>
 
 
